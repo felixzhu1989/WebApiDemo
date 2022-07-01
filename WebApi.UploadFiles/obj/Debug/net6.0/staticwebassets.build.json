@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YPWemT4PlCAwUs6lFrUUszcCLgBqw4A9pA6HKWhxINQ=",
+  "Source": "WebApi.UploadFiles",
+  "BasePath": "_content/WebApi.UploadFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi.UploadFiles\\wwwroot",
+      "Source": "WebApi.UploadFiles",
+      "ContentRoot": "C:\\Users\\Administrator\\source\\repos\\WebApiDemo\\WebApi.UploadFiles\\wwwroot\\",
+      "BasePath": "_content/WebApi.UploadFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
